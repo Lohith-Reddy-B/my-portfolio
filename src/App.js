@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import profileImg from './assets/image.jpg'; // Make sure to add an image to src/assets/
+import profileImg from './assets/image1.jpg'; // Make sure to add an image to src/assets/
 
 function App() {
   return (
@@ -30,7 +30,7 @@ function App() {
     I'm a passionate web developer focused on building responsive, user-friendly websites and applications. 
     I enjoy turning complex problems into elegant solutions.
   </p>
-  <a href="/resume.pdf" download className="resume-btn">View Resume</a>
+  <a href="/resume1.pdf" download className="resume-btn">View Resume</a>
 </section>
 
       {/* Projects Section */}
